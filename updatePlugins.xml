@@ -3,7 +3,9 @@
   The <plugins> element contains the description of the plugins available at this repository. Required. 
 -->
 <plugins>
-<plugin id="com.cn.autotest.autotest-plugin-intellij" url="https://cn-autotest-plugin-host.s3.amazonaws.com/autotest-intellij-plugin-1.0-SNAPSHOT.jar " version="1.0">
+  
+<plugin id="com.cn.autotest.autotest-plugin-intellij" url="https://cn-autotest-plugin-host.s3.amazonaws.com/autotest-intellij-plugin-1.0-SNAPSHOT.jar" version="1.0">
 <idea-version since-build="192.*" until-build="192.*"/>
 </plugin>
+  
 </plugins>
